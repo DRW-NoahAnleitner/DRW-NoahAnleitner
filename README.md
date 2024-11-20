@@ -1,7 +1,6 @@
-## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0m4n904&show_icons=true&theme=transparent&title_color=a60430&text_color=a60430&icon_color=a60430&border_color=a60430)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**DRW-NoahAnleitner/DRW-NoahAnleitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**N0m4n904/N0m4n904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
